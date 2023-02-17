@@ -1,0 +1,16 @@
+{
+  "__entry_css_mods__": {
+    "/Users/bryan/lighthouse/tailwind-practice/src/app/page": [
+      "/Users/bryan/lighthouse/tailwind-practice/src/app/page.module.css",
+      "/Users/bryan/lighthouse/tailwind-practice/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/bryan/lighthouse/tailwind-practice/src/app/globals.css"
+    ]
+  },
+  "/Users/bryan/lighthouse/tailwind-practice/src/app/page.js": [
+    "/Users/bryan/lighthouse/tailwind-practice/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "/Users/bryan/lighthouse/tailwind-practice/src/app/page.module.css"
+  ],
+  "/Users/bryan/lighthouse/tailwind-practice/src/app/layout.js": [
+    "/Users/bryan/lighthouse/tailwind-practice/src/app/globals.css"
+  ]
+}
